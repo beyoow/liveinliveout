@@ -174,5 +174,6 @@ footer li {
 }
 
 @media screen and (min-width: 768px){
-
+    * {
+        width: auto;
 }
